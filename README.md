@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Aditya Vikramm Singhal
+- 👋 Hi, I’m Aditya Vikramm Singhal, a 3rd Year Uni student at MUJ pursuing CSE(Honors)[AIML]
 - 👀 I’m interested in Books, puzzles and interacting with people
 - 🌱 I’m currently learning Web Development and Machine Learning
+- Toodles! :)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
